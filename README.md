@@ -58,7 +58,23 @@
 
 ---
 [![](https://github.com/deep-diver/deep-diver/blob/master/chat.svg)](https://twitter.com/algo_diver)
-
+[![](https://github.com/deep-diver/deep-diver/blob/master/chat.svg)](https://twitter.com/nahtheol)
 ![](https://activity-graph.herokuapp.com/graph?username=deep-diver&theme=react-dark&hide_border=true&area=true)
 
 ![](https://github.com/deep-diver/deep-diver/blob/output/github-contribution-grid-snake.svg)
+
+## ⚔️ Bold Ronin
+
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://twitter.com/nahtheol)
+
+---
+
+### 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=bold-ronin&theme=react-dark&hide_border=true&area=true)
+
+---
+
+### 🐍 Contribution Snake
+
+![](https://github.com/bold-ronin/bold-ronin/blob/output/github-contribution-grid-snake.svg)
