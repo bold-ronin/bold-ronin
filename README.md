@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to My World</h1>
+<!-- <h1 align="center">👋 Welcome to My World</h1> -->
 
 <div align="center">
   <a href="https://github.com/Naomer">
@@ -7,9 +7,9 @@
 </div>
 
 <!-- Badge -->
-<p align="left">
+<!-- <p align="left">
   <img src="https://img.shields.io/badge/Top_Developer-A%2B-brightgreen?style=for-the-badge&logo=github" alt="Top Tier Developer"/>
-</p>
+</p> -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00FF9C&center=true&vCenter=true&lines=Naomer+—+Mobile+•+AI+•+Cloud;Exploring+AI+%2B+Cloud+Integrations;Neural+Technology+%26+Innovation" />
