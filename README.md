@@ -61,8 +61,4 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=deep-diver&theme=react-dark&hide_border=true&area=true)
 
-![](https://github.com/deep-diver/deep-diver/blob/output/github-contribution-grid-snake.svg)
-
-![](https://activity-graph.herokuapp.com/graph?username=deep-diver&theme=react-dark&hide_border=true&area=true)
-
 ![](https://github.com/bold-ronin/bold-ronin/blob/output/github-contribution-grid-snake.svg)
