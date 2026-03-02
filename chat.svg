@@ -270,7 +270,7 @@
 
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="130" height="42" rx="18.0355" />
+    <rect width="135" height="42" rx="18.0355" />
     <text x="15" y="27">Hey, I'm Naol</text>
   </g>
 
@@ -417,7 +417,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 336)" class="msg-7">
-    <rect width="420" height="42" rx="18.0355" class="bubble" />
+    <rect width="410" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"> reach out via <a xlink:href="https://twitter.com/deep_algo">https://twitter.com/nahtheol</a> </text>
   </g>
 </svg>
