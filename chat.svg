@@ -270,8 +270,8 @@
 
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="138" height="42" rx="18.0355" />
-    <text x="15" y="27">Hey, I'm Naol</text>
+    <rect width="135" height="42" rx="18.0355" />
+    <text x="15" y="27">Hi, I'm Naol</text>
   </g>
 
   <!-- typing 2 -->
@@ -294,8 +294,8 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="490" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Software Engineer building AI focused intelligent systems</text>
+    <rect width="492" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Software Engineer building AI native intelligent systems</text>
     <text x="15" y="50">Flutter, LLM Agents, API Integrations, MVP Architect</text>
   </g>
 
