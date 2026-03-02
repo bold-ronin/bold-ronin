@@ -319,9 +319,9 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="510" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">currently shipping an Agentic Lead Intelligence SaaS and</text>    
-    <text x="15" y="50">working on Exciting Flutter projects and AI based SWs</text>
+    <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">working on Exciting Flutter projects and AI based SWs</text>    
+    <text x="15" y="50">currently shipping an Agentic Lead Intelligence SaaS</text>
   </g>
 
 
