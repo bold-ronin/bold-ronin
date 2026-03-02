@@ -319,7 +319,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="402" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="400" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">working on Exciting Flutter projs and AI SWs</text>    
     <text x="15" y="50">building an Agentic RAG SaaS</text>
   </g>
@@ -393,7 +393,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
-    <rect width="505" height="42" rx="18.0355" class="bubble" />
+    <rect width="502" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">training AI models in underrepresented human languages</text>
   </g>
   
