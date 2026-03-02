@@ -270,7 +270,7 @@
 
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="132" height="42" rx="18.0355" />
+    <rect width="131" height="42" rx="18.0355" />
     <text x="15" y="27">Hi, I'm Naol</text>
   </g>
 
@@ -294,7 +294,7 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="405" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="410" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Software Engineer building AI native systems</text>
     <text x="15" y="50">Flutter, LLM Agents, API, RAG, MVP Architect</text>
   </g>
@@ -319,7 +319,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="395" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="390" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">working on Exciting Flutter projs and AI SWs</text>    
     <text x="15" y="50">building an Agentic RAG SaaS Systems</text>
   </g>
@@ -369,7 +369,7 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="400" height="42" rx="18.0355" class="bubble" />
+    <rect width="401" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Shipping MVPs, Testing reality, Iterating fast</text>
   </g>
 
