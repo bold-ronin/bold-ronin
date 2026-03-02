@@ -294,9 +294,9 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="492" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Software Engineer building AI native intelligent systems</text>
-    <text x="15" y="50">Flutter, LLM Agents, API Integrations, MVP Architect</text>
+    <rect width="472" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Software Engineer building AI native systems</text>
+    <text x="15" y="50">Flutter, LLM Agents, API, RAG</text>
   </g>
 
   <!-- typing 3 -->
@@ -319,9 +319,9 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="480" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">working on Exciting Flutter projects and AI based SWs</text>    
-    <text x="15" y="50">currently shipping an Agentic Lead Intelligence SaaS</text>
+    <rect width="470" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">working on Exciting Flutter projs and AI SWs</text>    
+    <text x="15" y="50">building an Agentic RAG SaaS</text>
   </g>
 
 
