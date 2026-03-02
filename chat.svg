@@ -294,7 +294,7 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="820" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">AI native Software Engineer building intelligent systems</text>
     <text x="15" y="50">Flutter LLM Agents API Integrations MVP Architect</text>
   </g>
