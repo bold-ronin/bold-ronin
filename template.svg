@@ -270,7 +270,7 @@
 
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="138" height="42" rx="18.0355" />
+    <rect width="130" height="42" rx="18.0355" />
     <text x="15" y="27">Hi, I'm Naol</text>
   </g>
 
@@ -368,7 +368,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="555" height="42.1302" rx="18.0355" class="bubble" />
+    <rect width="510" height="42.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Exploring AI with Cloud integrations and Neural Technologies</text>    
   </g>
 
