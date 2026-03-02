@@ -270,7 +270,7 @@
 
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="170" height="42" rx="18.0355" />
+    <rect width="165" height="42" rx="18.0355" />
     <text x="15" y="27">Hey, I'm Naol</text>
   </g>
 
@@ -294,7 +294,7 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="820" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="620" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">AI native Software Engineer building intelligent systems</text>
     <text x="15" y="50">Flutter LLM Agents API Integrations MVP Architect</text>
   </g>
@@ -319,7 +319,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="480" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">currently shipping an Agentic Lead Intelligence SaaS</text>    
     <text x="15" y="50">working on Exciting Flutter projects and AI based Software solving real world problems</text>
   </g>
@@ -370,7 +370,7 @@
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="400" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Shipping MVPs Testing reality Iterating fast</text>
+    <text x="15" y="27">Shipping MVPs, Testing reality, Iterating fast</text>
   </g>
 
   <!-- typing 6 -->
@@ -393,7 +393,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
-    <rect width="365" height="42" rx="18.0355" class="bubble" />
+    <rect width="465" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">training AI models in underrepresented human languages</text>
   </g>
   
@@ -417,7 +417,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 336)" class="msg-7">
-    <rect width="445" height="42" rx="18.0355" class="bubble" />
+    <rect width="440" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"> reach out via <a xlink:href="https://twitter.com/deep_algo">https://twitter.com/nahtheol</a> </text>
   </g>
 </svg>
