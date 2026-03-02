@@ -345,7 +345,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="200" height="42.1302" rx="18.0355" class="bubble" />
+    <rect width="220" height="42.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Solving real world problems</text>    
   </g>  
   
@@ -393,7 +393,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
-    <rect width="565" height="42" rx="18.0355" class="bubble" />
+    <rect width="525" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">training AI models in underrepresented human languages</text>
   </g>
   
