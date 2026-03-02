@@ -319,7 +319,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="495" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="490" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">working on Exciting Flutter projects and AI based SWs</text>    
     <text x="15" y="50">currently shipping an Agentic Lead Intelligence SaaS</text>
   </g>
